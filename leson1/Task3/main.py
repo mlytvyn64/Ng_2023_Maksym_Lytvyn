@@ -17,3 +17,5 @@ elif choice == '2':
     fahrenheit = float(input("Write temp in Faringeit: "))
     celsius = fahrenheit_to_celsius(fahrenheit)
     print(f"{fahrenheit} temp in Faringeit {celsius} temp in Celsia")
+else:
+    print("ERRORR")
