@@ -6,4 +6,4 @@ unique_elements = set(elements)
 
 unique_list = list(unique_elements)
 
-print("", unique_list)
+print("Unique elements:", unique_list)
